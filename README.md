@@ -7,4 +7,4 @@
 5. Connect to pgAdmin and use pgAdmin to populate focus-tool database with dummy data.
 6. Set up back-end using Express. Set up model, controller, router, and server.
 7. Test back-end with Postman.
-8. 
+8. Set up front-end with React.
