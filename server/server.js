@@ -6,6 +6,7 @@ const apiRouter = require('./routes/api');
 
 const PORT = 3000;
 
+app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 if (process.env.NODE_ENV === 'production') {
